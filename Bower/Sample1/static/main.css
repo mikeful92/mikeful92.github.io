@@ -1,0 +1,48 @@
+header{
+    margin: 0 0 5px 0;
+}
+ 
+ 
+img {
+    box-shadow: 2px 2px 2px #888888;
+}
+
+.contact {
+    margin: 0 0 0 0;
+    padding: 3px 0 0 0;
+}
+
+.page-header {
+    
+    margin: 0 0;
+    padding: 40px 0;
+}
+
+.navbar {
+
+    margin-bottom: 0;
+}
+
+.topblock{
+    background: none;
+    background-color: rgba(245, 245, 245, 0);
+}
+
+.full {
+    background: url('http://sharethingsyoulike.com/files/carlyle/1448719283-76b023d4da5d4f75b887a8ba932555d4.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+body { 
+    background-color: transparent;
+}
+
+.bottom{
+    background-color: white;
+}
+
+.jumbotron{
+    background-color: rgba(245, 245, 245, 0);
+}
