@@ -1,0 +1,26 @@
+header{
+    margin: 0 0 5px 0;
+}
+ 
+ 
+img {
+    max-width: 160px; 
+    max-height: 105px;
+    box-shadow: 2px 2px 2px #888888;
+}
+
+.contact {
+    margin: 0 0 0 0;
+    padding: 3px 0 0 0;
+}
+
+.page-header {
+    
+    margin: 0 0;
+    padding: 40px 0;
+}
+
+.navbar {
+
+    margin-bottom: 0;
+}
