@@ -28,7 +28,7 @@
   border-radius: 25px;
   text-align: center;
   padding: 50px 0;
-  margin: 200px 0;
+  margin: 75px 0;
   background: rgba(0, 0, 0, 0.5);
 }
 
@@ -71,6 +71,28 @@ hr {
     background: #2E2A28;
     color: white;
     text-align: center;
+    height: 100%;
+}
+
+.project-year {
+    display: block;
+    font-size: 14px;
+    color: #b8b8b8;
+    margin-top: 4px;
+}
+
+.projects-row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.projects-row > [class*="col-"] {
+    display: flex;
+}
+
+.projects-row > [class*="col-"] > a {
+    display: flex;
+    width: 100%;
 }
 
 .connect {
